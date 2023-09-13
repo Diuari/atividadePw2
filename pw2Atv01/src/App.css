@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main{
+  padding: 24px 56px 37px 56px;
+  scale: 0.75;
+  display: flex;
+  gap: 99px;
+  flex-direction: column;
+  background-color: #FFFFFF;
+  border-radius: 40px;
+}
+
+.caixaMensagens{
+  display: flex;
+  flex-direction: column;
+  gap: 34px;
+}
